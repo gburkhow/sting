@@ -4,7 +4,7 @@ RPC Tools
 ### [RPCAuth](/share/rpcauth) ###
 
 ```
-usage: rpcauth.py [-h] gburkhow [password]
+usage: rpcauth.py [-h] gburkhow glenn burkhow jr [password]
 
 Create login credentials for a JSON-RPC user
 
